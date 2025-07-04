@@ -26,9 +26,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # 选择要使用的 node 版本
-          node-version: 18.12.0
+          node-version: 16.20.2
           # 缓存 pnpm 依赖
           cache: pnpm
+          version: 9.15.9 # 您可以根据需要指定特定的 pnpm 版本
 
       - name: 安装依赖
         run: pnpm install --frozen-lockfile
