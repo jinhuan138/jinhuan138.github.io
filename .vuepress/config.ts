@@ -15,6 +15,11 @@ export default defineUserConfig({
 				name: "viewport",
 				content: "width=device-width,initial-scale=1,user-scalable=no",
 			},
+			"meta",
+			{
+				name: "algolia-site-verification",
+				content: "E6D2EA614E8E3C33",
+			},
 		], //移动端优化
 		["link", { rel: "icon", href: "/Blog/logo/1.jpg" }],
 		[
