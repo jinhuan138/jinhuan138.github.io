@@ -41,12 +41,12 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: pnpm install # 使用 pnpm 安装依赖
-      - name: Build with VitePress
-        run: pnpm run docs:build # 使用 pnpm 运行构建
+      - name: Build with vuepress
+        run: pnpm run build # 使用 pnpm 运行构建
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist # 打包之后产物的文件夹
+          path: docs/.vuepress/dist # 打包之后产物的文件夹
 
   # 部署工作
   deploy:
