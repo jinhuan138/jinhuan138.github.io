@@ -31,6 +31,9 @@ export default defineUserConfig({
 		],[
 			"meta",
 			{ name: "algolia-site-verification", content: "E6D2EA614E8E3C33" },
+		],[
+			"meta",
+			{ name: "algolia-site-verification", content: "DAF6740DD35A7EA8" },
 		],
 	],
 	theme: recoTheme({
