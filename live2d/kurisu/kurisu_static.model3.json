@@ -1,0 +1,10 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "kurisu_mayqueen.moc3",
+    "Textures": [
+      "Textures/texture_00.png",
+      "Textures/texture_01.png"
+    ]
+  }
+}

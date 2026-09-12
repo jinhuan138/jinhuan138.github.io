@@ -1,0 +1,11 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "kurisu_p3.moc3",
+    "Textures": [
+      "Textures/texture_00.png",
+      "Textures/transparent.svg",
+      "Textures/texture_02.png"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "Version": 3,
+    "Meta": {
+        "Name": "touch_ShoeRBHide",
+        "Duration": 0.5669999718666077,
+        "Fps": 30.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 2,
+        "UserDataCount": 2,
+        "TotalPointCount": 11,
+        "TotalSegmentCount": 7,
+        "TotalUserDataSize": 20
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "ShoeRB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0,
+                1,
+                0.38866666952768963,
+                0.0,
+                0.4443333347638448,
+                1.0000000682231065,
+                0.5,
+                1.0,
+                2,
+                0.5669999718666077,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ShoeRB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.0,
+                0.0,
+                1,
+                0.16666666666666666,
+                0.0,
+                0.33333333333333337,
+                1.0,
+                0.5,
+                1.0,
+                2,
+                0.5669999718666077,
+                1.0
+            ]
+        }
+    ],
+    "UserData": [
+        {
+            "time": 0.0,
+            "value": "soundFx_500002_sfx_1"
+        },
+        {
+            "time": 0.0,
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "model.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "physics/physics3.json",
+    "Expressions": [
+      {
+        "Name": "expression-1",
+        "File": "expressions/1.exp3.json"
+      },
+      {
+        "Name": "expression-2",
+        "File": "expressions/2.exp3.json"
+      },
+      {
+        "Name": "expression-3",
+        "File": "expressions/3.exp3.json"
+      },
+      {
+        "Name": "expression-4",
+        "File": "expressions/4.exp3.json"
+      },
+      {
+        "Name": "expression-5",
+        "File": "expressions/5.exp3.json"
+      },
+      {
+        "Name": "expression-6",
+        "File": "expressions/6.exp3.json"
+      }
+    ],
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/idle.motion3.json",
+          "FadeInTime": 0.5,
+          "FadeOutTime": 0.5
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

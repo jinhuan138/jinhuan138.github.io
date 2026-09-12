@@ -1,0 +1,765 @@
+{
+  "voices": {
+    "kurisu": [
+      {
+        "name": "001_kurisu_ACCEPT.wav",
+        "cue": "kurisu_ACCEPT",
+        "url": "audio/voices/kurisu/001_kurisu_ACCEPT.wav"
+      },
+      {
+        "name": "002_kurisu_AFTERNOON.wav",
+        "cue": "kurisu_AFTERNOON",
+        "url": "audio/voices/kurisu/002_kurisu_AFTERNOON.wav"
+      },
+      {
+        "name": "003_kurisu_AGREE.wav",
+        "cue": "kurisu_AGREE",
+        "url": "audio/voices/kurisu/003_kurisu_AGREE.wav"
+      },
+      {
+        "name": "004_kurisu_APPRECIATE.wav",
+        "cue": "kurisu_APPRECIATE",
+        "url": "audio/voices/kurisu/004_kurisu_APPRECIATE.wav"
+      },
+      {
+        "name": "005_kurisu_BATTLE.wav",
+        "cue": "kurisu_BATTLE",
+        "url": "audio/voices/kurisu/005_kurisu_BATTLE.wav"
+      },
+      {
+        "name": "006_kurisu_DIALOGUE1.wav",
+        "cue": "kurisu_DIALOGUE1",
+        "url": "audio/voices/kurisu/006_kurisu_DIALOGUE1.wav"
+      },
+      {
+        "name": "007_kurisu_DIALOGUE2.wav",
+        "cue": "kurisu_DIALOGUE2",
+        "url": "audio/voices/kurisu/007_kurisu_DIALOGUE2.wav"
+      },
+      {
+        "name": "008_kurisu_DIALOGUE4.wav",
+        "cue": "kurisu_DIALOGUE4",
+        "url": "audio/voices/kurisu/008_kurisu_DIALOGUE4.wav"
+      },
+      {
+        "name": "009_kurisu_DIALOGUE5.wav",
+        "cue": "kurisu_DIALOGUE5",
+        "url": "audio/voices/kurisu/009_kurisu_DIALOGUE5.wav"
+      },
+      {
+        "name": "010_kurisu_DUTY.wav",
+        "cue": "kurisu_DUTY",
+        "url": "audio/voices/kurisu/010_kurisu_DUTY.wav"
+      },
+      {
+        "name": "011_kurisu_EVENING.wav",
+        "cue": "kurisu_EVENING",
+        "url": "audio/voices/kurisu/011_kurisu_EVENING.wav"
+      },
+      {
+        "name": "012_kurisu_FEELING.wav",
+        "cue": "kurisu_FEELING",
+        "url": "audio/voices/kurisu/012_kurisu_FEELING.wav"
+      },
+      {
+        "name": "013_kurisu_FORMATION.wav",
+        "cue": "kurisu_FORMATION",
+        "url": "audio/voices/kurisu/013_kurisu_FORMATION.wav"
+      },
+      {
+        "name": "014_kurisu_GAIN.wav",
+        "cue": "kurisu_GAIN",
+        "url": "audio/voices/kurisu/014_kurisu_GAIN.wav"
+      },
+      {
+        "name": "015_kurisu_INTERACT1.wav",
+        "cue": "kurisu_INTERACT1",
+        "url": "audio/voices/kurisu/015_kurisu_INTERACT1.wav"
+      },
+      {
+        "name": "016_kurisu_INTERACT2.wav",
+        "cue": "kurisu_INTERACT2",
+        "url": "audio/voices/kurisu/016_kurisu_INTERACT2.wav"
+      },
+      {
+        "name": "017_kurisu_INTERACT3.wav",
+        "cue": "kurisu_INTERACT3",
+        "url": "audio/voices/kurisu/017_kurisu_INTERACT3.wav"
+      },
+      {
+        "name": "018_kurisu_L2D.wav",
+        "cue": "kurisu_L2D",
+        "url": "audio/voices/kurisu/018_kurisu_L2D.wav"
+      },
+      {
+        "name": "019_kurisu_LEVELUP.wav",
+        "cue": "kurisu_LEVELUP",
+        "url": "audio/voices/kurisu/019_kurisu_LEVELUP.wav"
+      },
+      {
+        "name": "020_kurisu_LOWMOOD.wav",
+        "cue": "kurisu_LOWMOOD",
+        "url": "audio/voices/kurisu/020_kurisu_LOWMOOD.wav"
+      },
+      {
+        "name": "021_kurisu_MIDNIGHT.wav",
+        "cue": "kurisu_MIDNIGHT",
+        "url": "audio/voices/kurisu/021_kurisu_MIDNIGHT.wav"
+      },
+      {
+        "name": "022_kurisu_MOOD1.wav",
+        "cue": "kurisu_MOOD1",
+        "url": "audio/voices/kurisu/022_kurisu_MOOD1.wav"
+      },
+      {
+        "name": "023_kurisu_MOOD2.wav",
+        "cue": "kurisu_MOOD2",
+        "url": "audio/voices/kurisu/023_kurisu_MOOD2.wav"
+      },
+      {
+        "name": "024_kurisu_MORNING.wav",
+        "cue": "kurisu_MORNING",
+        "url": "audio/voices/kurisu/024_kurisu_MORNING.wav"
+      },
+      {
+        "name": "025_kurisu_MVP1.wav",
+        "cue": "kurisu_MVP1",
+        "url": "audio/voices/kurisu/025_kurisu_MVP1.wav"
+      },
+      {
+        "name": "026_kurisu_MVP2.wav",
+        "cue": "kurisu_MVP2",
+        "url": "audio/voices/kurisu/026_kurisu_MVP2.wav"
+      },
+      {
+        "name": "027_kurisu_RANKMAX.wav",
+        "cue": "kurisu_RANKMAX",
+        "url": "audio/voices/kurisu/027_kurisu_RANKMAX.wav"
+      },
+      {
+        "name": "028_kurisu_RANKUP.wav",
+        "cue": "kurisu_RANKUP",
+        "url": "audio/voices/kurisu/028_kurisu_RANKUP.wav"
+      },
+      {
+        "name": "029_kurisu_RELATIONSHIP1.wav",
+        "cue": "kurisu_RELATIONSHIP1",
+        "url": "audio/voices/kurisu/029_kurisu_RELATIONSHIP1.wav"
+      },
+      {
+        "name": "030_kurisu_RELATIONSHIP2.wav",
+        "cue": "kurisu_RELATIONSHIP2",
+        "url": "audio/voices/kurisu/030_kurisu_RELATIONSHIP2.wav"
+      },
+      {
+        "name": "031_kurisu_RELATIONSHIP3.wav",
+        "cue": "kurisu_RELATIONSHIP3",
+        "url": "audio/voices/kurisu/031_kurisu_RELATIONSHIP3.wav"
+      },
+      {
+        "name": "032_kurisu_RELATIONSHIP4.wav",
+        "cue": "kurisu_RELATIONSHIP4",
+        "url": "audio/voices/kurisu/032_kurisu_RELATIONSHIP4.wav"
+      },
+      {
+        "name": "033_kurisu_RELATIONSHIP5.wav",
+        "cue": "kurisu_RELATIONSHIP5",
+        "url": "audio/voices/kurisu/033_kurisu_RELATIONSHIP5.wav"
+      },
+      {
+        "name": "034_kurisu_RETREAT.wav",
+        "cue": "kurisu_RETREAT",
+        "url": "audio/voices/kurisu/034_kurisu_RETREAT.wav"
+      },
+      {
+        "name": "035_kurisu_SKILL.wav",
+        "cue": "kurisu_SKILL",
+        "url": "audio/voices/kurisu/035_kurisu_SKILL.wav"
+      },
+      {
+        "name": "036_kurisu_TITLE.wav",
+        "cue": "kurisu_TITLE",
+        "url": "audio/voices/kurisu/036_kurisu_TITLE.wav"
+      }
+    ],
+    "mayuri": [
+      {
+        "name": "001_mayuri_ACCEPT.wav",
+        "cue": "mayuri_ACCEPT",
+        "url": "audio/voices/mayuri/001_mayuri_ACCEPT.wav"
+      },
+      {
+        "name": "002_mayuri_AFTERNOON.wav",
+        "cue": "mayuri_AFTERNOON",
+        "url": "audio/voices/mayuri/002_mayuri_AFTERNOON.wav"
+      },
+      {
+        "name": "003_mayuri_AGREE.wav",
+        "cue": "mayuri_AGREE",
+        "url": "audio/voices/mayuri/003_mayuri_AGREE.wav"
+      },
+      {
+        "name": "004_mayuri_APPRECIATE.wav",
+        "cue": "mayuri_APPRECIATE",
+        "url": "audio/voices/mayuri/004_mayuri_APPRECIATE.wav"
+      },
+      {
+        "name": "005_mayuri_BATTLE.wav",
+        "cue": "mayuri_BATTLE",
+        "url": "audio/voices/mayuri/005_mayuri_BATTLE.wav"
+      },
+      {
+        "name": "006_mayuri_DIALOGUE1.wav",
+        "cue": "mayuri_DIALOGUE1",
+        "url": "audio/voices/mayuri/006_mayuri_DIALOGUE1.wav"
+      },
+      {
+        "name": "007_mayuri_DIALOGUE2.wav",
+        "cue": "mayuri_DIALOGUE2",
+        "url": "audio/voices/mayuri/007_mayuri_DIALOGUE2.wav"
+      },
+      {
+        "name": "008_mayuri_DIALOGUE4.wav",
+        "cue": "mayuri_DIALOGUE4",
+        "url": "audio/voices/mayuri/008_mayuri_DIALOGUE4.wav"
+      },
+      {
+        "name": "009_mayuri_DIALOGUE5.wav",
+        "cue": "mayuri_DIALOGUE5",
+        "url": "audio/voices/mayuri/009_mayuri_DIALOGUE5.wav"
+      },
+      {
+        "name": "010_mayuri_DUTY.wav",
+        "cue": "mayuri_DUTY",
+        "url": "audio/voices/mayuri/010_mayuri_DUTY.wav"
+      },
+      {
+        "name": "011_mayuri_EVENING.wav",
+        "cue": "mayuri_EVENING",
+        "url": "audio/voices/mayuri/011_mayuri_EVENING.wav"
+      },
+      {
+        "name": "012_mayuri_FEELING.wav",
+        "cue": "mayuri_FEELING",
+        "url": "audio/voices/mayuri/012_mayuri_FEELING.wav"
+      },
+      {
+        "name": "013_mayuri_FORMATION.wav",
+        "cue": "mayuri_FORMATION",
+        "url": "audio/voices/mayuri/013_mayuri_FORMATION.wav"
+      },
+      {
+        "name": "014_mayuri_GAIN.wav",
+        "cue": "mayuri_GAIN",
+        "url": "audio/voices/mayuri/014_mayuri_GAIN.wav"
+      },
+      {
+        "name": "015_mayuri_INTERACT1.wav",
+        "cue": "mayuri_INTERACT1",
+        "url": "audio/voices/mayuri/015_mayuri_INTERACT1.wav"
+      },
+      {
+        "name": "016_mayuri_INTERACT2.wav",
+        "cue": "mayuri_INTERACT2",
+        "url": "audio/voices/mayuri/016_mayuri_INTERACT2.wav"
+      },
+      {
+        "name": "017_mayuri_INTERACT3.wav",
+        "cue": "mayuri_INTERACT3",
+        "url": "audio/voices/mayuri/017_mayuri_INTERACT3.wav"
+      },
+      {
+        "name": "018_mayuri_LEVELUP.wav",
+        "cue": "mayuri_LEVELUP",
+        "url": "audio/voices/mayuri/018_mayuri_LEVELUP.wav"
+      },
+      {
+        "name": "019_mayuri_LOWMOOD.wav",
+        "cue": "mayuri_LOWMOOD",
+        "url": "audio/voices/mayuri/019_mayuri_LOWMOOD.wav"
+      },
+      {
+        "name": "020_mayuri_MIDNIGHT.wav",
+        "cue": "mayuri_MIDNIGHT",
+        "url": "audio/voices/mayuri/020_mayuri_MIDNIGHT.wav"
+      },
+      {
+        "name": "021_mayuri_MOOD1.wav",
+        "cue": "mayuri_MOOD1",
+        "url": "audio/voices/mayuri/021_mayuri_MOOD1.wav"
+      },
+      {
+        "name": "022_mayuri_MOOD2.wav",
+        "cue": "mayuri_MOOD2",
+        "url": "audio/voices/mayuri/022_mayuri_MOOD2.wav"
+      },
+      {
+        "name": "023_mayuri_MORNING.wav",
+        "cue": "mayuri_MORNING",
+        "url": "audio/voices/mayuri/023_mayuri_MORNING.wav"
+      },
+      {
+        "name": "024_mayuri_MVP1.wav",
+        "cue": "mayuri_MVP1",
+        "url": "audio/voices/mayuri/024_mayuri_MVP1.wav"
+      },
+      {
+        "name": "025_mayuri_MVP2.wav",
+        "cue": "mayuri_MVP2",
+        "url": "audio/voices/mayuri/025_mayuri_MVP2.wav"
+      },
+      {
+        "name": "026_mayuri_RANKMAX.wav",
+        "cue": "mayuri_RANKMAX",
+        "url": "audio/voices/mayuri/026_mayuri_RANKMAX.wav"
+      },
+      {
+        "name": "027_mayuri_RANKUP.wav",
+        "cue": "mayuri_RANKUP",
+        "url": "audio/voices/mayuri/027_mayuri_RANKUP.wav"
+      },
+      {
+        "name": "028_mayuri_RELATIONSHIP1.wav",
+        "cue": "mayuri_RELATIONSHIP1",
+        "url": "audio/voices/mayuri/028_mayuri_RELATIONSHIP1.wav"
+      },
+      {
+        "name": "029_mayuri_RELATIONSHIP2.wav",
+        "cue": "mayuri_RELATIONSHIP2",
+        "url": "audio/voices/mayuri/029_mayuri_RELATIONSHIP2.wav"
+      },
+      {
+        "name": "030_mayuri_RELATIONSHIP3.wav",
+        "cue": "mayuri_RELATIONSHIP3",
+        "url": "audio/voices/mayuri/030_mayuri_RELATIONSHIP3.wav"
+      },
+      {
+        "name": "031_mayuri_RELATIONSHIP4.wav",
+        "cue": "mayuri_RELATIONSHIP4",
+        "url": "audio/voices/mayuri/031_mayuri_RELATIONSHIP4.wav"
+      },
+      {
+        "name": "032_mayuri_RELATIONSHIP5.wav",
+        "cue": "mayuri_RELATIONSHIP5",
+        "url": "audio/voices/mayuri/032_mayuri_RELATIONSHIP5.wav"
+      },
+      {
+        "name": "033_mayuri_RETREAT.wav",
+        "cue": "mayuri_RETREAT",
+        "url": "audio/voices/mayuri/033_mayuri_RETREAT.wav"
+      },
+      {
+        "name": "034_mayuri_SKILL.wav",
+        "cue": "mayuri_SKILL",
+        "url": "audio/voices/mayuri/034_mayuri_SKILL.wav"
+      },
+      {
+        "name": "035_mayuri_TITLE.wav",
+        "cue": "mayuri_TITLE",
+        "url": "audio/voices/mayuri/035_mayuri_TITLE.wav"
+      }
+    ],
+    "rintaro": [
+      {
+        "name": "001_rintaro_ACCEPT.wav",
+        "cue": "rintaro_ACCEPT",
+        "url": "audio/voices/rintaro/001_rintaro_ACCEPT.wav"
+      },
+      {
+        "name": "002_rintaro_AFTERNOON.wav",
+        "cue": "rintaro_AFTERNOON",
+        "url": "audio/voices/rintaro/002_rintaro_AFTERNOON.wav"
+      },
+      {
+        "name": "003_rintaro_AGREE.wav",
+        "cue": "rintaro_AGREE",
+        "url": "audio/voices/rintaro/003_rintaro_AGREE.wav"
+      },
+      {
+        "name": "004_rintaro_APPRECIATE.wav",
+        "cue": "rintaro_APPRECIATE",
+        "url": "audio/voices/rintaro/004_rintaro_APPRECIATE.wav"
+      },
+      {
+        "name": "005_rintaro_BATTLE.wav",
+        "cue": "rintaro_BATTLE",
+        "url": "audio/voices/rintaro/005_rintaro_BATTLE.wav"
+      },
+      {
+        "name": "006_rintaro_DIALOGUE1.wav",
+        "cue": "rintaro_DIALOGUE1",
+        "url": "audio/voices/rintaro/006_rintaro_DIALOGUE1.wav"
+      },
+      {
+        "name": "007_rintaro_DIALOGUE2.wav",
+        "cue": "rintaro_DIALOGUE2",
+        "url": "audio/voices/rintaro/007_rintaro_DIALOGUE2.wav"
+      },
+      {
+        "name": "008_rintaro_DIALOGUE4.wav",
+        "cue": "rintaro_DIALOGUE4",
+        "url": "audio/voices/rintaro/008_rintaro_DIALOGUE4.wav"
+      },
+      {
+        "name": "009_rintaro_DIALOGUE5.wav",
+        "cue": "rintaro_DIALOGUE5",
+        "url": "audio/voices/rintaro/009_rintaro_DIALOGUE5.wav"
+      },
+      {
+        "name": "010_rintaro_DUTY.wav",
+        "cue": "rintaro_DUTY",
+        "url": "audio/voices/rintaro/010_rintaro_DUTY.wav"
+      },
+      {
+        "name": "011_rintaro_EVENING.wav",
+        "cue": "rintaro_EVENING",
+        "url": "audio/voices/rintaro/011_rintaro_EVENING.wav"
+      },
+      {
+        "name": "012_rintaro_FEELING.wav",
+        "cue": "rintaro_FEELING",
+        "url": "audio/voices/rintaro/012_rintaro_FEELING.wav"
+      },
+      {
+        "name": "013_rintaro_FORMATION.wav",
+        "cue": "rintaro_FORMATION",
+        "url": "audio/voices/rintaro/013_rintaro_FORMATION.wav"
+      },
+      {
+        "name": "014_rintaro_GAIN.wav",
+        "cue": "rintaro_GAIN",
+        "url": "audio/voices/rintaro/014_rintaro_GAIN.wav"
+      },
+      {
+        "name": "015_rintaro_INTERACT1.wav",
+        "cue": "rintaro_INTERACT1",
+        "url": "audio/voices/rintaro/015_rintaro_INTERACT1.wav"
+      },
+      {
+        "name": "016_rintaro_INTERACT2.wav",
+        "cue": "rintaro_INTERACT2",
+        "url": "audio/voices/rintaro/016_rintaro_INTERACT2.wav"
+      },
+      {
+        "name": "017_rintaro_INTERACT3.wav",
+        "cue": "rintaro_INTERACT3",
+        "url": "audio/voices/rintaro/017_rintaro_INTERACT3.wav"
+      },
+      {
+        "name": "018_rintaro_L2D.wav",
+        "cue": "rintaro_L2D",
+        "url": "audio/voices/rintaro/018_rintaro_L2D.wav"
+      },
+      {
+        "name": "019_rintaro_LEVELUP.wav",
+        "cue": "rintaro_LEVELUP",
+        "url": "audio/voices/rintaro/019_rintaro_LEVELUP.wav"
+      },
+      {
+        "name": "020_rintaro_LOGIN.wav",
+        "cue": "rintaro_LOGIN",
+        "url": "audio/voices/rintaro/020_rintaro_LOGIN.wav"
+      },
+      {
+        "name": "021_rintaro_LOWMOOD.wav",
+        "cue": "rintaro_LOWMOOD",
+        "url": "audio/voices/rintaro/021_rintaro_LOWMOOD.wav"
+      },
+      {
+        "name": "022_rintaro_MIDNIGHT.wav",
+        "cue": "rintaro_MIDNIGHT",
+        "url": "audio/voices/rintaro/022_rintaro_MIDNIGHT.wav"
+      },
+      {
+        "name": "023_rintaro_MOOD1.wav",
+        "cue": "rintaro_MOOD1",
+        "url": "audio/voices/rintaro/023_rintaro_MOOD1.wav"
+      },
+      {
+        "name": "024_rintaro_MOOD2.wav",
+        "cue": "rintaro_MOOD2",
+        "url": "audio/voices/rintaro/024_rintaro_MOOD2.wav"
+      },
+      {
+        "name": "025_rintaro_MORNING.wav",
+        "cue": "rintaro_MORNING",
+        "url": "audio/voices/rintaro/025_rintaro_MORNING.wav"
+      },
+      {
+        "name": "026_rintaro_MVP1.wav",
+        "cue": "rintaro_MVP1",
+        "url": "audio/voices/rintaro/026_rintaro_MVP1.wav"
+      },
+      {
+        "name": "027_rintaro_MVP2.wav",
+        "cue": "rintaro_MVP2",
+        "url": "audio/voices/rintaro/027_rintaro_MVP2.wav"
+      },
+      {
+        "name": "028_rintaro_RANKMAX.wav",
+        "cue": "rintaro_RANKMAX",
+        "url": "audio/voices/rintaro/028_rintaro_RANKMAX.wav"
+      },
+      {
+        "name": "029_rintaro_RANKUP.wav",
+        "cue": "rintaro_RANKUP",
+        "url": "audio/voices/rintaro/029_rintaro_RANKUP.wav"
+      },
+      {
+        "name": "030_rintaro_RELATIONSHIP1.wav",
+        "cue": "rintaro_RELATIONSHIP1",
+        "url": "audio/voices/rintaro/030_rintaro_RELATIONSHIP1.wav"
+      },
+      {
+        "name": "031_rintaro_RELATIONSHIP2.wav",
+        "cue": "rintaro_RELATIONSHIP2",
+        "url": "audio/voices/rintaro/031_rintaro_RELATIONSHIP2.wav"
+      },
+      {
+        "name": "032_rintaro_RELATIONSHIP3.wav",
+        "cue": "rintaro_RELATIONSHIP3",
+        "url": "audio/voices/rintaro/032_rintaro_RELATIONSHIP3.wav"
+      },
+      {
+        "name": "033_rintaro_RELATIONSHIP4.wav",
+        "cue": "rintaro_RELATIONSHIP4",
+        "url": "audio/voices/rintaro/033_rintaro_RELATIONSHIP4.wav"
+      },
+      {
+        "name": "034_rintaro_RELATIONSHIP5.wav",
+        "cue": "rintaro_RELATIONSHIP5",
+        "url": "audio/voices/rintaro/034_rintaro_RELATIONSHIP5.wav"
+      },
+      {
+        "name": "035_rintaro_RETREAT.wav",
+        "cue": "rintaro_RETREAT",
+        "url": "audio/voices/rintaro/035_rintaro_RETREAT.wav"
+      },
+      {
+        "name": "036_rintaro_SKILL.wav",
+        "cue": "rintaro_SKILL",
+        "url": "audio/voices/rintaro/036_rintaro_SKILL.wav"
+      },
+      {
+        "name": "037_rintaro_TITLE.wav",
+        "cue": "rintaro_TITLE",
+        "url": "audio/voices/rintaro/037_rintaro_TITLE.wav"
+      }
+    ]
+  },
+  "battle": {
+    "kurisu": [
+      {
+        "name": "001_Atk_Kurisu_01.wav",
+        "cue": "Atk_Kurisu_01",
+        "url": "audio/battle/kurisu/001_Atk_Kurisu_01.wav"
+      },
+      {
+        "name": "002_Atk_Kurisu_02.wav",
+        "cue": "Atk_Kurisu_02",
+        "url": "audio/battle/kurisu/002_Atk_Kurisu_02.wav"
+      },
+      {
+        "name": "003_Atk_Kurisu_Hit_01.wav",
+        "cue": "Atk_Kurisu_Hit_01",
+        "url": "audio/battle/kurisu/003_Atk_Kurisu_Hit_01.wav"
+      },
+      {
+        "name": "004_Atk_Kurisu_Hit_02.wav",
+        "cue": "Atk_Kurisu_Hit_02",
+        "url": "audio/battle/kurisu/004_Atk_Kurisu_Hit_02.wav"
+      },
+      {
+        "name": "005_Skill_Kurisu_01.wav",
+        "cue": "Skill_Kurisu_01",
+        "url": "audio/battle/kurisu/005_Skill_Kurisu_01.wav"
+      },
+      {
+        "name": "006_Skill_Kurisu_02.wav",
+        "cue": "Skill_Kurisu_02",
+        "url": "audio/battle/kurisu/006_Skill_Kurisu_02.wav"
+      },
+      {
+        "name": "007_Skill_Kurisu_EX_Cast.wav",
+        "cue": "Skill_Kurisu_EX_Cast",
+        "url": "audio/battle/kurisu/007_Skill_Kurisu_EX_Cast.wav"
+      },
+      {
+        "name": "008_Skill_Kurisu_EX_End.wav",
+        "cue": "Skill_Kurisu_EX_End",
+        "url": "audio/battle/kurisu/008_Skill_Kurisu_EX_End.wav"
+      },
+      {
+        "name": "009_Skill_Kurisu_EX_Loop.wav",
+        "cue": "Skill_Kurisu_EX_Loop",
+        "url": "audio/battle/kurisu/009_Skill_Kurisu_EX_Loop.wav"
+      },
+      {
+        "name": "010_Skill_Kurisu_Ex_Start.wav",
+        "cue": "Skill_Kurisu_Ex_Start",
+        "url": "audio/battle/kurisu/010_Skill_Kurisu_Ex_Start.wav"
+      },
+      {
+        "name": "011_Skill_Kurisu_Hit.wav",
+        "cue": "Skill_Kurisu_Hit",
+        "url": "audio/battle/kurisu/011_Skill_Kurisu_Hit.wav"
+      },
+      {
+        "name": "012_Skill_Kurisu_Passive_01.wav",
+        "cue": "Skill_Kurisu_Passive_01",
+        "url": "audio/battle/kurisu/012_Skill_Kurisu_Passive_01.wav"
+      }
+    ],
+    "mayuri": [
+      {
+        "name": "001_Atk_Mayuri_01.wav",
+        "cue": "Atk_Mayuri_01",
+        "url": "audio/battle/mayuri/001_Atk_Mayuri_01.wav"
+      },
+      {
+        "name": "002_Atk_Mayuri_Hit.wav",
+        "cue": "Atk_Mayuri_Hit",
+        "url": "audio/battle/mayuri/002_Atk_Mayuri_Hit.wav"
+      },
+      {
+        "name": "003_Skill_Mayuri_01.wav",
+        "cue": "Skill_Mayuri_01",
+        "url": "audio/battle/mayuri/003_Skill_Mayuri_01.wav"
+      },
+      {
+        "name": "004_Skill_Mayuri_EX_Cast.wav",
+        "cue": "Skill_Mayuri_EX_Cast",
+        "url": "audio/battle/mayuri/004_Skill_Mayuri_EX_Cast.wav"
+      },
+      {
+        "name": "005_Skill_Mayuri_EX_End.wav",
+        "cue": "Skill_Mayuri_EX_End",
+        "url": "audio/battle/mayuri/005_Skill_Mayuri_EX_End.wav"
+      },
+      {
+        "name": "006_Skill_Mayuri_EX_Loop.wav",
+        "cue": "Skill_Mayuri_EX_Loop",
+        "url": "audio/battle/mayuri/006_Skill_Mayuri_EX_Loop.wav"
+      },
+      {
+        "name": "007_Skill_Mayuri_Ex_Start.wav",
+        "cue": "Skill_Mayuri_Ex_Start",
+        "url": "audio/battle/mayuri/007_Skill_Mayuri_Ex_Start.wav"
+      },
+      {
+        "name": "008_Skill_Mayuri_Hit.wav",
+        "cue": "Skill_Mayuri_Hit",
+        "url": "audio/battle/mayuri/008_Skill_Mayuri_Hit.wav"
+      },
+      {
+        "name": "009_Skill_Mayuri_Passive_01.wav",
+        "cue": "Skill_Mayuri_Passive_01",
+        "url": "audio/battle/mayuri/009_Skill_Mayuri_Passive_01.wav"
+      },
+      {
+        "name": "010_Skill_Mayuri_Passive_02.wav",
+        "cue": "Skill_Mayuri_Passive_02",
+        "url": "audio/battle/mayuri/010_Skill_Mayuri_Passive_02.wav"
+      },
+      {
+        "name": "011_Skill_Mayuri_Passive_Hit.wav",
+        "cue": "Skill_Mayuri_Passive_Hit",
+        "url": "audio/battle/mayuri/011_Skill_Mayuri_Passive_Hit.wav"
+      },
+      {
+        "name": "012_Skill_Mayuri_Passive_Loop.wav",
+        "cue": "Skill_Mayuri_Passive_Loop",
+        "url": "audio/battle/mayuri/012_Skill_Mayuri_Passive_Loop.wav"
+      }
+    ],
+    "rintaro": [
+      {
+        "name": "001_Atk_Rintaro_01.wav",
+        "cue": "Atk_Rintaro_01",
+        "url": "audio/battle/rintaro/001_Atk_Rintaro_01.wav"
+      },
+      {
+        "name": "002_Atk_Rintaro_01.wav",
+        "cue": "Atk_Rintaro_01",
+        "url": "audio/battle/rintaro/002_Atk_Rintaro_01.wav"
+      },
+      {
+        "name": "003_Atk_Rintaroi_Hit.wav",
+        "cue": "Atk_Rintaroi_Hit",
+        "url": "audio/battle/rintaro/003_Atk_Rintaroi_Hit.wav"
+      },
+      {
+        "name": "004_Atk_Rintaroi_Hit.wav",
+        "cue": "Atk_Rintaroi_Hit",
+        "url": "audio/battle/rintaro/004_Atk_Rintaroi_Hit.wav"
+      },
+      {
+        "name": "005_Atk_Rintaroi_Hit.wav",
+        "cue": "Atk_Rintaroi_Hit",
+        "url": "audio/battle/rintaro/005_Atk_Rintaroi_Hit.wav"
+      },
+      {
+        "name": "006_Skill_Rintaro_01.wav",
+        "cue": "Skill_Rintaro_01",
+        "url": "audio/battle/rintaro/006_Skill_Rintaro_01.wav"
+      },
+      {
+        "name": "007_Skill_Rintaro_EX_01.wav",
+        "cue": "Skill_Rintaro_EX_01",
+        "url": "audio/battle/rintaro/007_Skill_Rintaro_EX_01.wav"
+      },
+      {
+        "name": "008_Skill_Rintaro_EX_Cast.wav",
+        "cue": "Skill_Rintaro_EX_Cast",
+        "url": "audio/battle/rintaro/008_Skill_Rintaro_EX_Cast.wav"
+      },
+      {
+        "name": "009_Skill_Rintaro_EX_Start.wav",
+        "cue": "Skill_Rintaro_EX_Start",
+        "url": "audio/battle/rintaro/009_Skill_Rintaro_EX_Start.wav"
+      },
+      {
+        "name": "010_Skill_Rintaro_Passive_01.wav",
+        "cue": "Skill_Rintaro_Passive_01",
+        "url": "audio/battle/rintaro/010_Skill_Rintaro_Passive_01.wav"
+      },
+      {
+        "name": "011_Skill_Rintaro_Passive_02.wav",
+        "cue": "Skill_Rintaro_Passive_02",
+        "url": "audio/battle/rintaro/011_Skill_Rintaro_Passive_02.wav"
+      },
+      {
+        "name": "012_Skill_Rintaro_Passive_03.wav",
+        "cue": "Skill_Rintaro_Passive_03",
+        "url": "audio/battle/rintaro/012_Skill_Rintaro_Passive_03.wav"
+      }
+    ],
+    "common": [
+      {
+        "name": "001_Common_buliaosilie.wav",
+        "cue": "Common_buliaosilie",
+        "url": "audio/battle/common/001_Common_buliaosilie.wav"
+      },
+      {
+        "name": "002_Skin_Banxsy_Cthulhu.wav",
+        "cue": "Skin_Banxsy_Cthulhu",
+        "url": "audio/battle/common/002_Skin_Banxsy_Cthulhu.wav"
+      },
+      {
+        "name": "003_Skin_Eos_Bell.wav",
+        "cue": "Skin_Eos_Bell",
+        "url": "audio/battle/common/003_Skin_Eos_Bell.wav"
+      },
+      {
+        "name": "004_Skin_Lewis_Triangle.wav",
+        "cue": "Skin_Lewis_Triangle",
+        "url": "audio/battle/common/004_Skin_Lewis_Triangle.wav"
+      },
+      {
+        "name": "005_Skin_Lewis_Violin.wav",
+        "cue": "Skin_Lewis_Violin",
+        "url": "audio/battle/common/005_Skin_Lewis_Violin.wav"
+      }
+    ]
+  }
+}

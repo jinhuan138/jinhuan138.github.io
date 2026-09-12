@@ -1,0 +1,133 @@
+{
+    "Version": 3,
+    "Meta": {
+        "Name": "touch_BAX",
+        "Duration": 0.3330000042915344,
+        "Fps": 30.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 10,
+        "UserDataCount": 1,
+        "TotalPointCount": 10,
+        "TotalSegmentCount": 10,
+        "TotalUserDataSize": 0
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "InterSilkLA",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "InterSilkRA",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkLB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkLB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ShoeLB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ShoeLB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkRB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkRB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ShoeRB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ShoeRB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.3330000042915344,
+                0.0
+            ]
+        }
+    ],
+    "UserData": [
+        {
+            "time": 0.0,
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Version": 3,
+    "Meta": {
+        "Name": "touch_SItemNull",
+        "Duration": 0.6669999957084656,
+        "Fps": 30.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 1,
+        "UserDataCount": 2,
+        "TotalPointCount": 1,
+        "TotalSegmentCount": 1,
+        "TotalUserDataSize": 20
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "XwXInterItem",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.6669999957084656,
+                0.0
+            ]
+        }
+    ],
+    "UserData": [
+        {
+            "time": 0.0,
+            "value": "soundFx_500002_sfx_1"
+        },
+        {
+            "time": 0.0,
+            "value": ""
+        }
+    ]
+}

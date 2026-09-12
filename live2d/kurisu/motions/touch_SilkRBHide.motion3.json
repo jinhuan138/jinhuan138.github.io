@@ -1,0 +1,96 @@
+{
+    "Version": 3,
+    "Meta": {
+        "Name": "touch_SilkRBHide",
+        "Duration": 1.0,
+        "Fps": 30.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 3,
+        "UserDataCount": 2,
+        "TotalPointCount": 17,
+        "TotalSegmentCount": 11,
+        "TotalUserDataSize": 20
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "InterSilkRA",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.0,
+                0.0,
+                1,
+                0.23333332935969034,
+                0.0,
+                0.46666665871938073,
+                0.9999999564034604,
+                0.699999988079071,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkRB_Area",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.0,
+                0.0,
+                2,
+                0.8999999761581421,
+                0.0,
+                1,
+                0.9333333174387614,
+                0.0,
+                0.9666666587193807,
+                1.0000000699359795,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkRB_Hide",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                0.0,
+                0.0,
+                2,
+                0.43299999833106995,
+                0.0,
+                1,
+                0.5219999949137369,
+                0.0,
+                0.610999991496404,
+                0.9999999455296088,
+                0.699999988079071,
+                1.0,
+                2,
+                0.8330000042915344,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        }
+    ],
+    "UserData": [
+        {
+            "time": 0.0,
+            "value": "soundFx_500002_sfx_1"
+        },
+        {
+            "time": 0.0,
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "rintaro_p3.moc3",
+    "Textures": [
+      "Textures/texture_00.png",
+      "Textures/texture_01.png"
+    ],
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/login_1.motion3.json"
+        },
+        {
+          "File": "motions/normal.motion3.json"
+        },
+        {
+          "File": "motions/repeat.motion3.json"
+        }
+      ],
+      "Tap": [
+        {
+          "File": "motions/touch1.motion3.json"
+        },
+        {
+          "File": "motions/touch2.motion3.json"
+        },
+        {
+          "File": "motions/touch3.motion3.json"
+        },
+        {
+          "File": "motions/touch4.motion3.json"
+        },
+        {
+          "File": "motions/touch6.motion3.json"
+        },
+        {
+          "File": "motions/touch7.motion3.json"
+        }
+      ]
+    }
+  }
+}

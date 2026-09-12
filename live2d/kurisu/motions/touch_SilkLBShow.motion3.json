@@ -1,0 +1,93 @@
+{
+    "Version": 3,
+    "Meta": {
+        "Name": "touch_SilkLBShow",
+        "Duration": 1.0,
+        "Fps": 30.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 3,
+        "UserDataCount": 2,
+        "TotalPointCount": 16,
+        "TotalSegmentCount": 10,
+        "TotalUserDataSize": 18
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "InterSilkLA",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                0.0,
+                1.0,
+                1,
+                0.26666667064030963,
+                1.0,
+                0.5333333412806194,
+                -2.980232253572505e-08,
+                0.800000011920929,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkLB_Area",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                0.0,
+                1.0,
+                2,
+                0.9330000281333923,
+                1.0,
+                1,
+                0.9553333520889282,
+                1.0,
+                0.9776666760444641,
+                -7.853160980767863e-08,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "SilkLB_Hide",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                0.0,
+                1.0,
+                2,
+                0.06700000166893005,
+                1.0,
+                1,
+                0.1113333354393641,
+                1.0,
+                0.1556666692097982,
+                -1.4917397539448984e-08,
+                0.20000000298023224,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        }
+    ],
+    "UserData": [
+        {
+            "time": 0.0,
+            "value": "soundFx_1039_sfx_1"
+        },
+        {
+            "time": 0.0,
+            "value": ""
+        }
+    ]
+}
